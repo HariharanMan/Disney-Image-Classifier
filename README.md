@@ -36,3 +36,11 @@ The application includes:
 
 ```bash
 pip install -r requirements.txt
+
+
+```bash
+chmod 600 ~/.kaggle/kaggle.json
+
+```bash
+streamlit run cnn.py
+
